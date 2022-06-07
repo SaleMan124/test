@@ -11,4 +11,4 @@ jobs:
             echo "Use emoji shortcodes instead!"
             echo "See https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md"
             exit 1
-          fi
+          
